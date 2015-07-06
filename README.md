@@ -1,1 +1,1 @@
-# code
+# Joomla extensions code
